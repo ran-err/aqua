@@ -1,0 +1,41 @@
+# Local
+.agent.local/
+.temp/
+CLAUDE.local.md
+
+# Build directories
+build/
+cmake-build-*/
+out/
+
+# IDE
+.idea/
+.vs/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Compiled objects
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Debug
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# OS
+.DS_Store
+Thumbs.db
